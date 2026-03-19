@@ -1,2 +1,3 @@
-# lite-security-scanner-rnf3
-Automated issue comment bot repository
+# Lite Security Scanner Rnf3
+
+Automated issue comment bot repository.
